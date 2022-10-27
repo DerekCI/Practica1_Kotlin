@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">Practica1</string>
+    <string name="autor">Derek Cortez Ibarra</string>
+    <string name="selected_item">Item seleccionado</string>
+    <string name="texto1">Selecciona una formula a resolver</string>
+    <string name="calcular">Calcular</string>
+
+    <string name="valor1">valor 1</string>
+    <string name="valor2">valor 2</string>
+    <string name="valor3">valor 3</string>
+
+    <string-array name="opcion1">
+        <item>A:</item>
+        <item>Pi:</item>
+        <item>K:</item>
+    </string-array>
+
+    <string name="textA">A:</string>
+    <string name="textPi">Pi:</string>
+    <string name="textK">K:</string>
+
+
+    <string name="textB">B:</string>
+    <string name="textr1">r:</string>
+    <string name="textQ">Q:</string>
+
+
+    <string name="textC">C:</string>
+    <string name="texth">h:</string>
+    <string name="textr2">r:</string>
+
+
+    <string-array name="opciones">
+        <item>Ecuacion de primer grado</item>
+        <item>Volumen de un cilindro</item>
+        <item>Diferencia de potencial</item>
+    </string-array>
+
+    <string name="hint">resultado</string>
+    <string name="tvResultado1">"El primer resultado es: "</string>
+    <string name="tvResultado2">"El segundo resultado es: "</string>
+    <string name="special">Caso especial, valor negativo en la raiz</string>
+
+</resources>

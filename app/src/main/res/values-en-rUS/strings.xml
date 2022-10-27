@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Practice exercice 1</string>
+    <string name="autor">Derek Cortez Ibarra</string>
+    <string name="selected_item">Selected item</string>
+    <string name="texto1">Select a formula</string>
+    <string name="calcular">Calculate</string>
+    <string name="valor1">value 1</string>
+    <string name="valor2">value 2</string>
+    <string name="valor3">value 3</string>
+    <string name="textA">A:</string>
+    <string name="textPi">Pi:</string>
+    <string name="textK">K:</string>
+    <string name="textB">B:</string>
+    <string name="textr1">r:</string>
+    <string name="textQ">Q:</string>
+    <string name="textC">C:</string>
+    <string name="texth">h:</string>
+    <string name="textr2">r:</string>
+    <string name="hint">result</string>
+    <string name="tvResultado1">First result:</string>
+    <string name="tvResultado2">Second result:</string>
+    <string name="special">Special event: negative value in square root</string>
+</resources>
